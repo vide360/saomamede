@@ -3,8 +3,10 @@
 ## Action
 
 ### URL
-LinkBehaviour_934DD660_82C4_B62B_41CC_0C9603EBCB84.source = https://www.google.com/maps/place/S%C3%A3o+Mamede+-+PB/@-6.9275893,-37.0840333,11z/data=!3m1!4b1!4m5!3m4!1s0x7af6fd87f864443:0xc09025eb64ce1bc2!8m2!3d-6.9262487!4d-37.0968939
+LinkBehaviour_98EC4F51_8244_566D_41B0_61CEC66DA827.source = http://saomamede.pb.gov.br/a_cidade/historia
+LinkBehaviour_99BD41F9_83BB_AA1D_41C0_3C8FA3106172.source = http://saomamede.pb.gov.br/a_cidade/historia
 LinkBehaviour_8FCB01A8_824C_AA3B_41C7_32EBBA7E6244.source = https://www.google.com/maps/place/S%C3%A3o+Mamede+-+PB/@-6.9275893,-37.0840333,11z/data=!3m1!4b1!4m5!3m4!1s0x7af6fd87f864443:0xc09025eb64ce1bc2!8m2!3d-6.9262487!4d-37.0968939
+LinkBehaviour_934DD660_82C4_B62B_41CC_0C9603EBCB84.source = https://www.google.com/maps/place/S%C3%A3o+Mamede+-+PB/@-6.9275893,-37.0840333,11z/data=!3m1!4b1!4m5!3m4!1s0x7af6fd87f864443:0xc09025eb64ce1bc2!8m2!3d-6.9262487!4d-37.0968939
 
 ## Hotspot
 
